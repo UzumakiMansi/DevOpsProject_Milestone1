@@ -1,4 +1,4 @@
-## Team : SegmentationFault
+## Team:SegmentationFault
 
 [![David](https://raw.github.com/alanshaw/david-www/master/david.png)](https://david-dm.org/)
 
